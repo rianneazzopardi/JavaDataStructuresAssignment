@@ -1,0 +1,2 @@
+todo ask chuckwu for pseudocode
+todo ask chuckwu for UML with static objects
