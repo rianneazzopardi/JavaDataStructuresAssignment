@@ -1,2 +1,2 @@
-# JavaFirstYearAssignment
- Meeting Organizer
+# Meeting Organizer
+
